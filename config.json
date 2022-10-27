@@ -1,21 +1,17 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
+  "title": "Eduardo Domingues",
+  "name": "Eduardo Domingues",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "eduardoduud",
+    "linkedin": "eduardoedomingues"
   },
-  "email": "contact@email.com",
+  "email": "eeadomingues@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/eduardoduud",
+  "resume_url": "https://bit.ly/3gnKuii",
   "colors": {
     "light": {
       "background": "#FBF1C9",
